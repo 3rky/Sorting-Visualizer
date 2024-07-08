@@ -10,9 +10,9 @@
   - Quick Sort
 - Adjustable speed and array size
 - Intuitive UI
-- used different color combination
-- also added an button for daylight.
-- gave some good touch to UI.
+- Used different color combination
+- Also added an button for daylight.
+- Gave some good touch to UI.
 
 ### Prerequisites
 
